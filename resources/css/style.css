@@ -116,3 +116,12 @@ nav span {
   flex-basis: 280px;
   background-color: black;
 }
+
+/* Contact and footer section styles */
+#contact {
+  height: 200px;
+}
+footer {
+  padding-left: 20px;
+  text-align: left;
+}
