@@ -122,6 +122,7 @@ nav span {
   height: 200px;
 }
 footer {
+  /*position: absolute;*/
   padding-left: 20px;
-  text-align: left;
+  align-self: flex-start;
 }
